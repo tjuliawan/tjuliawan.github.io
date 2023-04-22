@@ -1128,10 +1128,12 @@ input[type="submit"] {
     .contact1 span {
         font-size: 3em;
         font-weight: 500;
+        color: white;
     }
 
     .contact1 p {
         font-size: 1.1em;
+        color: white;
     
     }
 
